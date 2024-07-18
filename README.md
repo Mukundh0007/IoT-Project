@@ -1,7 +1,7 @@
 # IoT-Project - Smart Parking Management System
 <img width="399" alt="image" src="https://github.com/user-attachments/assets/8ae076e4-dd02-4a5a-88e8-98a4c16587c1">
-![image](https://github.com/user-attachments/assets/cf31f9e2-a000-4140-b3d7-28956ab96bd3)
-
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555">
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/4c336cf7-2226-4032-a7d1-3dc94d487683">
 
 The development and implementation of a smart parking system represent a significant step forward in addressing the challenges of urban parking management. By leveraging IoT technology, mobile applications, and real-time data analytics, the proposed system aims to optimize parking space utilization, enhance accessibility, and improve overall user experience. 
 -Optimized Parking Space Utilization: One of the primary objectives of the smart parking system is to maximize the efficiency of parking space utilization within urban areas. By continuously monitoring parking space availability in real-time using IoT sensors, the system provides users with up-to-date information, enabling them to quickly locate and reserve vacant parking spots. This real-time data also allows parking operators to identify trends and patterns, facilitating more informed decision-making in parking space allocation and management. 
